@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on xeyo.pl - alles und nichts</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on xeyo.pl - alles und nichts</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 21 Mar 2025 14:33:55 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Fri, 21 Mar 2025 14:33:55 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;h2 id=&#34;wilkommen&#34;&gt;Wilkommen!&lt;/h2&gt;&#xA;&lt;p&gt;Hier entsteht meine &lt;a href=&#34;https://xeyo.pl&#34;&gt;Seite&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
