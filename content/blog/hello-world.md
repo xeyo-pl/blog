@@ -7,6 +7,7 @@ tags = [
     "shortcodes",
     "privacy",
 ]
+hideReply: true
 +++
 
 Hier geht bald was!
