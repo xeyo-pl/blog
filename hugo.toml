@@ -2,8 +2,8 @@
 baseURL = "https://xeyo.pl"
 theme = "hugo-bearcub"
 copyright = "Xeyo (CC BY 4.0)"
-# defaultContentLanguage = "de-DE"
-defaultContentLanguage = "de"
+defaultContentLanguage = "de-DE"
+# defaultContentLanguage = "de"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
