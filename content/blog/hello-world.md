@@ -7,7 +7,7 @@ tags = [
     "shortcodes",
     "privacy",
 ]
-hideReply: true
+hideReply = yes
 +++
 
 Hier geht bald was!

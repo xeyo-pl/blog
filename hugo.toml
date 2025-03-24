@@ -2,6 +2,7 @@
 baseURL = "https://xeyo.pl"
 theme = "hugo-bearcub"
 copyright = "Xeyo (CC BY 4.0)"
+# defaultContentLanguage = "de-DE"
 defaultContentLanguage = "de"
 
 # Generate a nice robots.txt for SEO
@@ -21,21 +22,28 @@ enableRobotsTXT = true
 
 # Multilingual mode config. More for information about how to setup translation,
 # see https://gohugo.io/content-management/multilingual/
-[languages]
-  [languages.en]
-    title = "Bear Cub"
-    languageName = "en-US 🇺🇸"
-    LanguageCode = "en-US"
-    contentDir = "content"
-    [languages.en.params]
-      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
-  [languages.pt]
-    title = "Bear Cub"
-    languageName = "pt-BR 🇧🇷"
-    LanguageCode = "pt-BR"
-    contentDir = "content.pt"
-    [languages.pt.params]
-      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
+#[languages]
+#  [languages.en]
+#    title = "Bear Cub"
+#    languageName = "en-US 🇺🇸"
+#    LanguageCode = "en-US"
+#    contentDir = "content"
+#    [languages.en.params]
+#      madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+#  [languages.pt]
+#    title = "Bear Cub"
+#    languageName = "pt-BR 🇧🇷"
+#    LanguageCode = "pt-BR"
+#    contentDir = "content.pt"
+#    [languages.pt.params]
+#      madeWith = "Feito com [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+  [languages]
+  [languages.de]
+    languageCode = 'de-DE'
+    languageDirection = 'ltr'
+    languageName = 'Deutsch'
+    weight = 1
 
 [params]
   # The description of your website
