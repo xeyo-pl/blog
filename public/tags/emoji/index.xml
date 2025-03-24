@@ -6,15 +6,15 @@
     <description>Recent content in Emoji on Bear Cub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
+    <managingEditor>me@example.com (Xeyo)</managingEditor>
+    <webMaster>me@example.com (Xeyo)</webMaster>
     <copyright>Xeyo (CC BY 4.0)</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
       <link>http://localhost:1313/blog/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (Xeyo)</author>
       <guid>http://localhost:1313/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>

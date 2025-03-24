@@ -6,25 +6,15 @@
     <description>Recent content in Privacy on Bear Cub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
+    <managingEditor>me@example.com (Xeyo)</managingEditor>
+    <webMaster>me@example.com (Xeyo)</webMaster>
     <copyright>Xeyo (CC BY 4.0)</copyright>
-    <lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World!</title>
-      <link>http://localhost:1313/blog/hello-world/</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
-      <guid>http://localhost:1313/blog/hello-world/</guid>
-      <description>&lt;h2 id=&#34;bookmarke-dir-meine-seite&#34;&gt;Hier geht bald was!&#xA;Bookmarke dir meine &lt;a href=&#34;https://xeyo.pl&#34;&gt;Seite&lt;/a&gt;&lt;/h2&gt;</description>
-      <content:encoded><![CDATA[<h2 id="bookmarke-dir-meine-seite">Hier geht bald was!
-Bookmarke dir meine <a href="https://xeyo.pl">Seite</a></h2>
-]]></content:encoded>
-    </item>
     <item>
       <title>Rich Content</title>
       <link>http://localhost:1313/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (Xeyo)</author>
       <guid>http://localhost:1313/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
